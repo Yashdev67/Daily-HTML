@@ -1,1 +1,2 @@
-Here I'll be posting  my daily learning of Web development❤️, Starting from HTML,CSS,JS to ...................let's see where this journey takes me
+Documenting my daily journey of learning Web Development ❤️
+Starting from HTML, CSS, and JavaScript, and exploring wherever the path leads
