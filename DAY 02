@@ -1,0 +1,73 @@
+#DAY 02
+Today I learned:
+>How does the Internet Work
+>How does the computer searches for an address of a website on the Internet using DNS
+>What is a Server
+>What is HTML,CSS,JS,API, how does these things work together
+>Wrote first code of html (hello world)
+>Learned about <head> and <body> tags
+>Learned about <h1>,<p>,<a>,<img>, tags
+>What is lorem used for
+>List and their types Unordered and Ordered
+>Use of emmet shortcuts like UL>li*4
+>Difference between Block and Inline elements
+>Difference between <strong> and <b> tag
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My first html</title>
+</head>
+<body>
+    <h1 title="Lorem">Lorem ipsum dolor sit amet.</h1>
+    <h2>Lorem, ipsum.</h2>
+
+    <img src="image.jpg" alt="">
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure dolorem eum et alias rerum quae quis dicta illum quibusdam, officiis, molestiae natus mollitia qui vero ullam libero fugit corporis commodi doloremque totam autem temporibus modi iste molestias. Veniam, itaque commodi magnam eum corporis modi! Inventore recusandae non obcaecati. Architecto, magni corrupti? Exercitationem voluptates nostrum repellendus quasi consequatur labore, omnis deserunt assumenda sint debitis reprehenderit possimus, velit aut atque quo. Eum repellendus dolor, harum iusto pariatur voluptate assumenda vero quibusdam cum non porro, tempore totam corrupti perferendis reiciendis quis soluta labore placeat minima maiores architecto. Autem fugit voluptate quas minima, molestias deleniti, inventore ipsa, nostrum sed quis illum porro magnam rem nisi. Nam quae fugiat, suscipit aspernatur repudiandae voluptatem inventore sequi aperiam minus eveniet libero natus cum labore accusantium. Tempora, animi officiis rerum laboriosam vero fugit odio perspiciatis praesentium velit illum dolorum adipisci dolore optio cumque eos. Modi tempora officiis ad alias totam ratione consectetur itaque rerum facere sequi est, veritatis laudantium aut repellendus at? Perspiciatis, velit atque.</p>
+</body>
+</html>
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>lists</title>
+</head>
+<body>
+    <h1>Lorem, ipsum dolor.</h1>
+    <h2>Lorem ipsum dolor sit.</h2>
+    <p>Lorem ipsum <em>dolor</em> sit.</p>
+    <ol>
+        <li>orange tea</li>
+        <li>black tea</li>
+    </ol>
+    <img src="./images/hc.png" width="200px" alt="">
+    <div>
+        <h1>Block level elements</h1>
+        <ul>
+            <li>heading h1 to h6</li>
+            <li>ol, li</li>
+            <li>li</li>
+            <li>p</li>
+        </ul>
+    </div>
+
+    <div>
+        <h1>Inline elements</h1>
+        <ul>
+            <li>a tags</li>
+            <li>img</li>
+            <li>strong</li>
+            <li>em</li>
+        </ul>
+    </div>
+</body>
+</html>
