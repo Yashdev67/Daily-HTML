@@ -7,4 +7,6 @@ Day 04 Learning
 >What is Lighthouse report, how its generated in Google chrome
 >Your title should resemble your content for SEO optimisation
 
->Started learning about form tag, learnt about the action attribute.
+>Started learning about form tag:
+  >We learned about some basic attributes and tags used in forms like:
+  >action,method and tags like radio,checkboxes,select and textarea
