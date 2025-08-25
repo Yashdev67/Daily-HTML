@@ -2,9 +2,9 @@
  >First I create a small Contact Me Form as my small project, it contains Name,email,Gender(using radio buttons),Interests(using Checkboxes),
   Country(using dropdown),message(using textarea) and submit button
 
- >Then I learned about Inline and Block elements, what are they, which elements are inline and block
- >ID and class attributes in html, Difference in them.
- >Video tag: attributes like control,loop,muted,poster 
+ >Then I learned about Inline and Block elements, what are they, which elements are inline and block ( index.html)
+ >ID and class attributes in html, Difference in them. 
+ >Video tag: attributes like control,loop,muted,poster (Index_02.html)
  >Audio tag: attributes like src, control,autoplay,loop, muted also learned about preload attribute which is considered one of the most 
   important in Interviews. It can have three values none,metadata,auto.
  >SVG tags: Learned what are SVGS, how to create a circle in svg, how to create and use any external svg file.
