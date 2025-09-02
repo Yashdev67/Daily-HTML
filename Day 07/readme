@@ -1,1 +1,30 @@
+Day 07 learning:
+>Types of selectors
+  >Element 
+  >Class
+  >ID
+  >Child
+  >Descendant
+  >Universal
+  >Psuedo
 
+>CSS Box model
+ >what is border
+ >What is content
+ >What is padding
+ >What is margin
+ >What happens when we use box-sizing: border-box;
+ >What is margin-collapse
+
+>CSS properties:
+ >font-family
+ >font-style
+ >font-weight
+ >text-decoration
+ >How to add a font from google fonts
+ >font-size
+ >line-height
+ >text-transform
+ >text-decoration-color
+ >text-decoration-style
+ >text-decoration-thickness
